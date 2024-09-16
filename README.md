@@ -104,8 +104,4 @@ The Connect Four game allows two players to drop discs into a vertical grid. The
 - **Platform Compatibility:** The ANSI color codes used in Connect Four may not work on all terminals. Adjust the code as needed for different environments.
 - **Dependencies:** No additional libraries are required beyond standard C++.
 
-Feel free to explore, modify, and improve upon these projects. Happy coding!
 
----
-
-This `README.md` file provides a clear and organized overview of each project, including descriptions, features, and instructions for compilation and execution. Feel free to add any additional information or modify it to better suit your needs!
